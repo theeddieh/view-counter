@@ -3,6 +3,13 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "view-counter"
+    "view-counter",
+    "dotfiles",
+    "fizzbuzz",
+    "theeddieh",
+    "theeddieh.github.io",
+    "api-server",
+    "calicopia",
+    "lunisolar"
   ]
 }
